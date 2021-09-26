@@ -1,0 +1,11 @@
+state: enabled
+email: kaypunainc@hotmail.com
+fullname: 'kaypuna admin Administrator'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$RFZGH4V2xz5Pb9PMge4QS.Ngc/5GLD.2dJPFcPabeMWDVYNURS2Jm
